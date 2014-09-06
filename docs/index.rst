@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Indian Prairie District 204 High Schools 2010 Course Catalog 
-===========================================================
+============================================================
 
 Contents:
 
